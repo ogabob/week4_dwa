@@ -1,0 +1,19 @@
+{
+  "name": "dwa_wk4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oga okwoche",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "path-to-regexp": "^1.2.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "supertest": "^1.1.0"
+  }
+}
